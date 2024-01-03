@@ -90,17 +90,17 @@ Abra o arquivo pom.xml e insira a dependência do SpringDoc:
 	<dependency>
 		<groupId>org.springdoc</groupId>
 		<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-		<version>2.0.2</version>
+		<version>2.2.0</version>
 	 </dependency>
 ```
 
 <br />
 
-<div align="left"><img src="https://i.imgur.com/EWMO1wL.png" title="source: imgur.com" width="25px"/> <a href="https://springdoc.org/v2/#getting-started" target="_blank"><b>Documentação: Dependência do SpringDoc</b></a></div>
+<div align="left"><img src="https://i.imgur.com/EWMO1wL.png" title="source: imgur.com" width="25px"/> <a href="https://springdoc.org" target="_blank"><b>Documentação: Dependência do SpringDoc</b></a></div>
 
 <br />
 
-| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="80px"/> | **ATENÇÃO:** *Quando este material foi escrito, a versão atual do Springdoc era a 2.0.2, logo a versão atual pode ser outra.* |
+| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="80px"/> | **ATENÇÃO:** *Quando este material foi escrito, a versão atual do Springdoc era a 2.2.0, logo a versão atual pode ser outra.* |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
 
 <br />
